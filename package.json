@@ -1,0 +1,24 @@
+{
+  "name": "meimengLog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ant-design-vue": "^1.5.3",
+    "core-js": "^2.6.11",
+    "vuepress": "^1.4.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.0",
+    "sass-loader": "^8.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
