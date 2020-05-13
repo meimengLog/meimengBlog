@@ -1,6 +1,6 @@
 module.exports = {
-  base: '/press/',
-  title: '前端',
+  base: '/',
+  title: '前端小结',
   description: '顺丰华东小微',
   evergreen: true,
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
